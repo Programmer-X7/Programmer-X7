@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Programmer-X7&label=Profile%20views&color=0e75b6&style=flat" alt="Programmer-X7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Programmer-X7" alt="Programmer-X7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [CareerAce](https://github.com/Programmer-X7/Programmer-X7)
 
 - 🌱 I’m currently learning about **Amazon Web Services**
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **sm.suman.contact@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NJ5lSkYGVHO5Q45d6YK1RqsMH_LrEWuB/view?usp=drive_link](https://drive.google.com/file/d/1NJ5lSkYGVHO5Q45d6YK1RqsMH_LrEWuB/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1NJ5lSkYGVHO5Q45d6YK1RqsMH_LrEWuB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
